@@ -1,7 +1,6 @@
 ---
-layout: post
 category : life 
-tags: [resume][visa]
+tags: visa resume
 ---
 
 **Name:** 
@@ -38,13 +37,10 @@ tags: [resume][visa]
 >Sep/2001 - Jul/2003, Xiamen University, College Degree on English
 
 **Work Experience:**
->Jul/2007 - Now  Homemaker
-
->Jun/2006 - Jul/2007 Xiamen In-top Trade and Exhibition Company
->>Duty:Responsible for Exhibition Invitation Letter 
+>Jul/2008 - Now  Homemaker
 
 **Travel History
-> May/2011, Family Travel in Thailand
+> May/2011, Family Travel in **Thailand**
 
 **Travel with:**
 >Jia Jianfeng (Spouse)

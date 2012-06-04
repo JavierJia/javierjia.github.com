@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: null
 category : life 
-tags: [resume][visa]
+tags: visa resume
 ---
 
 **Name:** 
@@ -44,7 +44,7 @@ tags: [resume][visa]
 
 **Education:**
 >Sep/2005 - Jul/2008, Xiamen University, Master Degree on Computer Application
->>Tesis: *The Application of Dependency Grammar in Chinese-to-English Statistical Machine Translation*
+>>Thesis: *The Application of Dependency Grammar in Chinese-to-English Statistical Machine Translation*
 >Sep/2001 - Jul/2005, Xiamen University, Bachelor Degree on Computer Science
 
 **Work Experience:**
@@ -57,7 +57,7 @@ tags: [resume][visa]
 
 >>>Research on the popular Sogou IME (Chinese Input Method Editor). 
 
->>>Impove the precision of the wanted word that encoded in the Chinese Pinyin Stream
+>>>Improve the precision of the wanted word that encoded in the Chinese Pinyin Stream
 
 **Awards**
 >2010, Rhinoceroses prize for building the trigram and re-rank model for cloud IME Sogou Research
@@ -80,11 +80,13 @@ tags: [resume][visa]
 >**Jianfeng Jia**, Xiaodong Shi, Yu Chen, *"Shift-Reduce Algorithm and Structure Model Based Dependency Statistical Parser"*, International Chinese Computing Conference (ICCC) 2007, Wuhan, China.
 
 **Travel History
-> May/2011, Family Travel in Thailand
+> May/2011, Family Travel in **Thailand**
 
-> Jun/2010, Company Travel in Japan
+> Jun/2010, Company Travel in **Japan**
 
-> Apr/2007 - Sep/2007, Exchage Student in Spain
+> Apr/2007 - Sep/2007, Exchange Student in **Spain**
+
+> Feb/2007, CICLing Conference in **Mexico**
 
 **Travel with:**
 >Wu Hangyan (Spouse)
