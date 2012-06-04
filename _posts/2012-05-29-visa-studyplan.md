@@ -48,4 +48,4 @@ The Ph.D student from the better university will have the better promote of the 
 
 Second, I am the only son of my parents. It is my important duty to come back and take care of them according to Chinese tradition.
 
-Thus I will come back China as soon as I accomplished the study at UCI. 
+Thus I will come back China as soon as I have accomplished the study at UCI. 
