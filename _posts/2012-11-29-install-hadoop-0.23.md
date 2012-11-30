@@ -82,6 +82,10 @@ Change some bogus value
     $ export HADOOP_LOG_DIR="${HADOOP_PREFIX}/logs"
 
 ## Start HDFS
+Format the namenode
+
+     $ bin/hadoop namenode -format
+
 Run scripts as below
 
     sbin/hadoop-daemon.sh start namenode
