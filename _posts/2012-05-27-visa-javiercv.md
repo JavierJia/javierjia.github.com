@@ -10,34 +10,11 @@ tags: visa resume
 **Gender:** 
 >Male 
 
-**Date of Birth:** 
->Feb.5 1984 
-
 **Place of Birth:**
 >Yining,Xinjiang,China
 
-**Home Address:**
->5#1002,Qingrunjiayuan, 
-
->No.51,Longgang RD. Haidian District, 
-
->Beijing,China
-
 **Business Address:**
->20F,Tower D,Tsinghua TongFang Plaza,
-
->No.1 Wangzhuang Road,Haidian District, 
-
->Beijing,China
-
-**Home Phone:** 
->86-13811696102
-
-**Work Phone:**
->86-10-62727293
-
-**Mobile Phone:**
->86-13811696102
+>DBH 2062, University of California,Irvine
 
 **E-mail:**
 >jianfeng.jia@gmail.com
@@ -78,16 +55,4 @@ tags: visa resume
 >**Jianfeng Jia**, Xiaodong Shi, Xingbang Lai, *"HMM-based Chinese Pinyin Input Method"*, J. Modern Computer 2008. (4) 4-6.
 
 >**Jianfeng Jia**, Xiaodong Shi, Yu Chen, *"Shift-Reduce Algorithm and Structure Model Based Dependency Statistical Parser"*, International Chinese Computing Conference (ICCC) 2007, Wuhan, China.
-
-**Travel History
-> May/2011, Family Travel in **Thailand**
-
-> Jun/2010, Company Travel in **Japan**
-
-> Apr/2007 - Sep/2007, Exchange Student in **Spain**
-
-> Feb/2007, CICLing Conference in **Mexico**
-
-**Travel with:**
->Wu Hangyan (Spouse)
 
