@@ -27,3 +27,8 @@ Make sure mount to a exist directory. It does't creat it for u.
 
 Then it just works.
 I can read and write on my remote disk now. 
+
+# One more thing
+In order to remote it after reboot, write those sshfs command in the bashrc
+
+
