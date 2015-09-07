@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Javier Jia (Jianfeng Jia)
+title: Jianfeng Jia
 tagline: Supporting tagline
 ---
 {% include JB/setup %}

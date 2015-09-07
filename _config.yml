@@ -9,13 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Javier Jia    
+title : Jianfeng  Jia    
 tagline: Site Tagline
 author :
   name : Jianfeng Jia   
   email : jianfeng.jia@gmail.com
   github : JavierJia
-#  twitter : username
+  twitter : JianfengJia
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
