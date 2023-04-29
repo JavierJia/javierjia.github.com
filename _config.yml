@@ -9,7 +9,6 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Jianfeng Jia
-tagline: 
 author :
   name : Jianfeng Jia
   email : jianfeng.jia@gmail.com
@@ -33,7 +32,7 @@ plugins:
 # Theme
 # theme: minimal-mistakes-jekyll
 # theme: jekyll-theme-minimal
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
