@@ -2,6 +2,7 @@
 layout: post
 category : configure
 tags: mac ubuntu sshfs
+published: false
 ---
  
 I've tried some of different approach on mount the ubuntu disk on my mac.

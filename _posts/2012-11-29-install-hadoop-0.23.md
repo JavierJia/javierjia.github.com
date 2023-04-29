@@ -11,7 +11,7 @@ The instruction I learned and successfully installed is almost from the
 <http://www.crobak.org/2011/12/getting-started-with-apache-hadoop-0-23-0/>
 
 ## Download
-I download from this address: <http://mirror.nexcess.net/apache/hadoop/common/hadoop-0.23.5/>
+From this address: <http://mirror.nexcess.net/apache/hadoop/common/hadoop-0.23.5/>
 
 ## Install prerequisite package
 
@@ -60,10 +60,9 @@ The new 0.23 do not using the /conf/ folder again. All the configuration include
     </configuration>
 
 ### hadoop-env.sh
-This file in 0.23 did not appear in the /conf/ since there is no longer that directory anymore. 
-But it also not appear in the new configuration dir etc/hadoop.
+This file in 0.23 did not appear in the /conf/, but it also not appear in the new configuration dir etc/hadoop.
 
-From the reference blog I copy that one from below dir:
+From the reference, I copy that one from below dir:
 
     $ cp ./share/hadoop/common/templates/conf/hadoop-env.sh etc/hadoop
 
