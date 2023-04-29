@@ -26,7 +26,9 @@ author :
 #
 production_url : http://javierjia.github.io
 
-gems: ["jekyll-sitemap"]
+#gems: ["jekyll-sitemap"]
+plugins:
+ - "jekyll-sitemap"
 
 # Theme
 # theme: minimal-mistakes-jekyll
