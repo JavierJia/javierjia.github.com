@@ -9,7 +9,7 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Jianfeng Jia
-tagline: Site Tagline
+tagline: 
 author :
   name : Jianfeng Jia
   email : jianfeng.jia@gmail.com
@@ -27,6 +27,11 @@ author :
 production_url : http://javierjia.github.io
 
 gems: ["jekyll-sitemap"]
+
+# Theme
+# theme: minimal-mistakes-jekyll
+# theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
